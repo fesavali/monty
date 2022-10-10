@@ -9,4 +9,4 @@ A variable is declared when the compiler is informed that a variable exists (and
 
 A variable is defined when the compiler allocates the storage for the variable.
 
-You may declare a variable multiple times (though once is sufficient); you may only define it once within a given scope. A variable definition is also a declaration, but not all variable declarations are definitions.
+You may declare a variable multiple times ,though once is sufficient; you may only define it once within a given scope. A variable definition is also a declaration, but not all variable declarations are definitions.
